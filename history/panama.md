@@ -13,5 +13,3 @@ One possibility is that coffee seeds arrived in Panama from Colombia, which shar
 Once introduced, coffee plants found favorable growing conditions in Panama, particularly in the high-altitude regions of the Chiriquí Province, where the rich volcanic soil and temperate climate provided an ideal environment for coffee cultivation. Over time, coffee farming spread to other regions of the country, and Panama developed a reputation for producing high-quality, specialty coffee beans.
 
 Panama's coffee industry gained international recognition in the early 21st century, with Panamanian Geisha coffee winning multiple awards in international competitions. Today, Panamanian coffee is highly sought after by coffee enthusiasts worldwide for its unique flavors and exceptional quality.
-
-
