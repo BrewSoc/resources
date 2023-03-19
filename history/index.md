@@ -2,7 +2,7 @@
 title: History of Coffee
 layout: default
 nav_order: 2
-has_children: false
+has_children: true
 ---
 
 ## The History of Coffee: From Ancient Origins to Modern Times
