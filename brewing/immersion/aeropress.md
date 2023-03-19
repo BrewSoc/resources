@@ -3,6 +3,7 @@ title: Aeropress
 layout: default
 nav_order: 1
 parent: Immersion Brewers
+grand_parent: Brewing Coffee
 ---
 
 ## Brewing Coffee on a Aeropress
