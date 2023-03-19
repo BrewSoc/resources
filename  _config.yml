@@ -4,8 +4,5 @@ theme: just-the-docs
 
 url: https://brewsoc.github.io/resources
 
-plugins:
-    - jekyll-default-layout
-
 aux_links:
     Template Repository: https://github.com/just-the-docs/just-the-docs-template
