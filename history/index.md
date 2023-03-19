@@ -5,8 +5,6 @@ nav_order: 2
 has_children: false
 ---
 
-# HISTORY.md
-
 ## The History of Coffee: From Ancient Origins to Modern Times
 
 Coffee is an essential part of our daily lives and has a rich history that spans centuries. This document aims to provide an overview of the captivating journey of coffee, from its ancient origins to its widespread popularity in the present day.
