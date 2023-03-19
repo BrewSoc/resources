@@ -2,7 +2,7 @@ title: Brewsoc Knowledge Base
 description: Knowledge base curated by the Brewsoc community
 theme: just-the-docs
 
-url: https://resources.brewsoc.com
+url: https://brewsoc.github.io/resources
 
 plugins:
     - jekyll-default-layout
