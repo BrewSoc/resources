@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
+favicon_ico: "favicon.ico"
 ---
 
 In a world where coffee is more than just a mere beverage, it has become an integral part of our lives and culture, connecting people from all corners of the globe. The thriving community of coffee enthusiasts is a testament to this. Developing a shared knowledge base for these aficionados is of utmost importance as it fosters collaboration, innovation, and a deeper understanding of the complex world of coffee.
