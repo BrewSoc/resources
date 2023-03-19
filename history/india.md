@@ -1,7 +1,7 @@
 ---
-title: How did Coffee reach India
+title: India
 layout: default
-nav_order: 1
+nav_order: 10
 parent: History of Coffee
 ---
 
