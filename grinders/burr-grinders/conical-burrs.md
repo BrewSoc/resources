@@ -6,12 +6,13 @@ parent: Burr Grinders
 grand_parent: Coffee Grinders
 ---
 
+![Conical Burrs](conical_burrs_img.jpeg "Conical Burrs")
+
 ## Grinding coffee with conical burrs
 Conical burrs are a popular choice in coffee grinders, particularly for hand grinders, due to their unique design and several advantages they offer over other types of grinding mechanisms. These burrs consist of a cone-shaped inner burr nested within a larger, ring-shaped outer burr. Coffee beans are fed into the top of the grinder and crushed between the two burrs, resulting in a consistent grind size.
 
 Some examples of well known electric conical grinders are Baratza Encore, Fellow Opus, Wilfa Svart, Brevill Smart Grinder Pro, Option-O lagom mini, Niche Zero, Weber Key, and Kafatek Monolith Conical
-Some examples of well known hand-cranked conical grinders are Comandante C40, Kinu M47, 1ZPresso grinders, Goat Story Arco, and Weber HG-1
-
+Some examples of well known hand-cranked conical grinders are Comandante C40, Kinu M47, 1ZPresso grinders, Goat Story Arco, and Weber HG-2
 
 Here are some reasons why conical burrs are particularly well-suited for hand grinders:
 

@@ -6,6 +6,8 @@ parent: Coffee Grinders
 has_children: true
 ---
 
+![Burrs](burrs_img.png "Burrs")
+
 ## Coffee Grinder Burrs
 Burr grinders are a type of coffee grinder that uses two abrasive surfaces, known as burrs, to crush coffee beans into a consistent particle size. Burr grinders come in two main types: flat burr grinders and conical burr grinders. Flat burr grinders have two horizontal, parallel burrs, while conical burr grinders consist of a cone-shaped burr nested inside a larger, ring-shaped burr. Both types of burr grinders are highly recommended for making coffee due to their numerous advantages over blade grinders.
 

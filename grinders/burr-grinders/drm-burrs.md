@@ -6,6 +6,8 @@ parent: Burr Grinders
 grand_parent: Coffee Grinders
 ---
 
+![DRM Burrs](drm_burrs_img.jpeg "DRM Burrs")
+
 ## Grinding coffee with DRM burrs
 DRM Hybrid burrs are a relatively new innovation in the coffee grinding world. These burrs combine the best attributes of both conical and flat burrs, resulting in a unique grinding mechanism designed to optimize coffee grounds specifically for espresso. 
 

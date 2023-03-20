@@ -6,6 +6,8 @@ parent: Coffee Grinders
 has_children: false
 ---
 
+![Roller Mills](roller_mills_img.jpeg "Roller Mills")
+
 ## Roller Mills
 Roller mills are a type of grinding mechanism that utilizes two or more cylindrical rollers to crush coffee beans. These rollers are often set at varying distances and speeds to achieve the desired particle size. Roller mills are particularly popular in industrial coffee grinding applications due to several advantages they offer. Here's why roller mills are used for industrial grinding of coffee beans:
 

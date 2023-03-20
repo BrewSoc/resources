@@ -6,6 +6,8 @@ parent: Coffee Grinders
 has_children: false
 ---
 
+![Blade Grinder](blade_grinder_img.jpeg "Blade Grinder")
+
 ## Blade Grinders
 Blade grinders are a type of coffee grinder that uses a spinning blade to chop and break coffee beans into smaller particles. Although they are often less expensive and more compact than other types of grinders, blade grinders are generally not recommended for making coffee due to several shortcomings that can negatively impact the quality of the brew.
 

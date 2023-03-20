@@ -6,6 +6,8 @@ parent: Burr Grinders
 grand_parent: Coffee Grinders
 ---
 
+![Flat Burrs](flat_burrs_img.jpeg "Flat Burrs")
+
 ## Grinding coffee with flat burrs
 Flat burrs are a type of grinding mechanism used in coffee grinders, characterized by two parallel, flat, abrasive surfaces (burrs) that face each other. Coffee beans are fed between the burrs and crushed to a consistent particle size. Flat burrs are especially suitable for electric grinders due to their unique design and several advantages they offer.
 
