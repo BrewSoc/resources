@@ -12,7 +12,7 @@ grand_parent: Coffee Grinders
 Flat burrs are a type of grinding mechanism used in coffee grinders, characterized by two parallel, flat, abrasive surfaces (burrs) that face each other. Coffee beans are fed between the burrs and crushed to a consistent particle size. Flat burrs are especially suitable for electric grinders due to their unique design and several advantages they offer.
 
 There are plenty of well known electric flat burr grinders e.g. Fellow Ode, Wilfa Uniform, Timemore Sculptor 64(s) & 78(s), Eureka Mignon Atom, Mazzer SJ & ZM, Bentwood Vertical 63, Option-O Lagom P64 & P100, Mahlkönig X54 & EK(K)43(S), Weber EG-1, Ceado Hero, Titus Nautilus & Nimbus, and Kafatek Monolith & Monolith Max.
-There are only two known examples of hand-cranked flat burr grinders are Pietro and Bonafabrica hand grinders.
+There are only two known examples of hand-cranked flat burr grinders: Pietro and Bonafabrica hand grinders.
 
 Here's why flat burrs are good for electric grinders:
 
