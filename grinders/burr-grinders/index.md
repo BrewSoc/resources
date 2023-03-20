@@ -1,5 +1,5 @@
 ---
-title: Coffee Grinder Burrs
+title: Burr Grinders
 layout: default
 nav_order: 1
 parent: Coffee Grinders

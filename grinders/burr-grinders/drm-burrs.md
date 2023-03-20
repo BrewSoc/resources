@@ -2,7 +2,7 @@
 title: DRM burrs
 layout: default
 nav_order: 3
-parent: Coffee Grinder Burrs
+parent: Burr Grinders
 grand_parent: Coffee Grinders
 ---
 

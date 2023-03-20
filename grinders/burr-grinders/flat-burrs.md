@@ -2,7 +2,7 @@
 title: Flat burrs
 layout: default
 nav_order: 2
-parent: Coffee Grinder Burrs
+parent: Burr Grinders
 grand_parent: Coffee Grinders
 ---
 

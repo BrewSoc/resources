@@ -2,7 +2,7 @@
 title: Conical burrs
 layout: default
 nav_order: 1
-parent: Coffee Grinder Burrs
+parent: Burr Grinders
 grand_parent: Coffee Grinders
 ---
 
