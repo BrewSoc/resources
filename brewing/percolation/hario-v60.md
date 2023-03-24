@@ -2,7 +2,7 @@
 title: Hario V60
 layout: default
 nav_order: 2
-parent: Percolation Brewers
+parent: Percolation
 grand_parent: Brewing Coffee
 ---
 

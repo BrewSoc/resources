@@ -1,8 +1,8 @@
 ---
 title: Moka Pot
 layout: default
-nav_order: 2
-parent: Stovetop Brewers
+nav_order: 3
+parent: Percolative-Immersion
 grand_parent: Brewing Coffee
 ---
 
