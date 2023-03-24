@@ -1,5 +1,5 @@
 ---
-title: Immersion Brewers
+title: Immersion
 layout: default
 nav_order: 2
 parent: Brewing Coffee

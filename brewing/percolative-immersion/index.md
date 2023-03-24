@@ -1,5 +1,5 @@
 ---
-title: Percolative Immersion Brewers
+title: Percolative-Immersion
 layout: default
 nav_order: 4
 parent: Brewing Coffee
